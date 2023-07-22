@@ -16,4 +16,3 @@ This course is more focused on how to create validations for the formulary compo
 1. HTML </li>
 2. CSS </li>
 3. JavaScript </li>
-4. [ViaCep API](https://viacep.com.br/) </li>
